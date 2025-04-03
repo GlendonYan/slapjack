@@ -1,3 +1,4 @@
+// put some Alpha or symbols.
 const cards = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L'];
 const totalPairs = 12;
 let flippedCards = [];
